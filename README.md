@@ -1,18 +1,10 @@
 <h1 align="center" id="title">CRIMINAL-DATABASE-MANAGEMENT-SYSTEM</h1>
 
-<p id="description">Web-based Criminal Management System using Python Streamlit and SQLite3 for efficient record management</p>
+<p id="description">Web-based Criminal Management System using Python Streamlit and SQLite3 for efficient record management.</p>
 
 <h2>🚀 Demo</h2>
 
 [https://drive.google.com/file/d/1ceXgxEsha-upeNT\_AJrZ26i1kyfNQC5B/view?usp=drive\_link](https://drive.google.com/file/d/1ceXgxEsha-upeNT_AJrZ26i1kyfNQC5B/view?usp=drive_link)
-
-<h2>Project Screenshots:</h2>
-
-<img src="https://drive.google.com/file/d/1hcwgVpZnV4BuLhl3ITWFNjGpOY1wizme/view?usp=drive_link" alt="project-screenshot" width="1920" height="1080/">
-
-<img src="https://drive.google.com/file/d/1UKbuHh26uqKn7TGPMJLVnkWg487b-cQM/view?usp=drive_link" alt="project-screenshot" width="1920" height="1080/">
-
-<img src="https://drive.google.com/file/d/1O6X3WrhIz9VBd6A2FUhms02tAVCbso9y/view?usp=drive_link" alt="project-screenshot" width="1920" height="1080/">
 
   
   
@@ -49,7 +41,7 @@ pip install -r requirements.txt
 <p>4. Run the application:</p>
 
 ```
-streamlit run app.py
+streamlit run (file name)
 ```
 
   
@@ -62,3 +54,7 @@ Technologies used in the project:
 *   Web Framework: Streamlit
 *   Database: SQLite3
 *   Data Manipulation: Pandas
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License
